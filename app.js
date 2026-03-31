@@ -1,7 +1,7 @@
 // ================================
 // GOOGLE GEMINI API CONFIG
 // ================================
-const API_KEY = "Enter Your API Key"; // <-- Replace with your actual key
+const API_KEY = ""; // <-- Replace with your actual key
 const MODEL = "gemini-3-flash-preview";
 
 // ================================
